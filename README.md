@@ -12,6 +12,7 @@ This is a React component that allows users to upload an image and preview it be
 
 ## Prerequisites
 
+
 -   Node.js and npm (Node Package Manager) installed on your machine.
 -   React.js installed.
 -   Tailwind CSS installed and configured in your project.
